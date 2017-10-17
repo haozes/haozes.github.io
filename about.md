@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="img/mybg.jpg" align="center"></p>
+    <p><img src="/img/mybg.jpg" align="center"></p>
 </center>
 
 我是haozes，始学建筑，后误学编程，独学而无友，孤陋寡闻的一个开发者，现在在一个二三线城市。
