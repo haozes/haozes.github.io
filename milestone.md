@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "App"
+title: "Milestone"
 description: "个人开发的App "
 header-img: "img/zhihu.jpg"
 ---
