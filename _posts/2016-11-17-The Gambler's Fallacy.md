@@ -26,10 +26,8 @@ description: 赌徒谬误
 
 虽然我解释了半天让他不要再浪费时间在这上面，这货还是不信，只好写点代码用运行来结果来打他脸:
 
-'''javascript 
-/**
- * Created by haozes on 16/11/2016.
- */
+```
+
 var stat = {money: 1000, loseCount: 0};
 var lotteryResult = [];
 // 下注次数
@@ -79,7 +77,7 @@ while (stat.money > 0 && n < BetCount) {
 }
 console.log("end...");
 
-'''
+```
 
 实际运行结果，很多情况下，几百次就可以输光，倒霉的时候100把就能输光。
 
