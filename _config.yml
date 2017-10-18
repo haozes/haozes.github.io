@@ -1,5 +1,5 @@
 # Site settings
-title: 这确定一定肯定是最后一个Blog了
+title: I know one thing; that I know nothing
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "Haozes"  
@@ -10,7 +10,7 @@ url: "http://haozes.me"
 owner: 
   name: " Haozes"
   email: haozes#gmail.com
-  bio: "I know one thing; that I know nothing"
+  bio: "Keep Moving"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
