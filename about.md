@@ -17,8 +17,8 @@ header-img: "img/green.jpg"
 
 ### 联系
 
-- https://t.me/Haozes
-- https://www.douban.com/people/fancystyle/
+- [https://t.me/Haozes](https://t.me/Haozes)
+- [https://www.douban.com/people/fancystyle/](https://www.douban.com/people/fancystyle/)
 
 
 <center>
