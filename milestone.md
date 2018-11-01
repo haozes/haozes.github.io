@@ -13,6 +13,9 @@ header-img: "img/zhihu.jpg"
 
 <p>专为Apple Watch 设计的跳绳计数器应用</p>
 
+<h2><a href = 'https://itunes.apple.com/cn/app/id1435069659?mt=8'>Lean</a></h2>
+
+<p>自重训练 App</p>
 
 
 
