@@ -18,6 +18,11 @@ header-img: "img/zhihu.jpg"
 <p>自重训练 App</p>
 
 
+<h2><a href = 'https://apps.apple.com/cn/app/id1462516460'>OnlyTalk</a></h2>
+
+<p>OnlyTalk - 亲情对讲 App</p>
+
+
 
 
 
