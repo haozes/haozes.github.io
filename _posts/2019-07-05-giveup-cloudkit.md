@@ -9,7 +9,7 @@ description: Why OnlyTalk give up cloudkit
 
 ### 向死而生
 这是一个注定是广义上”失败“的 [App](https://itunes.apple.com/cn/app/id1462516460?mt=8), IM 太多公司尝试了又失败。我本计划 OnlyTalk 的这样的小玩意，只要耗一个月时间做个 MVP 版本， 如果我上来就需要花掉我 3 个月时间，以我的鸡贼一定不会动手。生活充满了“死”字，就像砍“只狼”一样。
-![death](https://pic2.zhimg.com/80/v2-d1be45ca7b4bd3e613ce2eaca944846d_hd.jpg)
+![death](http://cdn.onlytalk.top/zhilang.jpg)
 
 ### OnlyTalk 的开始架构设计
 ![onlytalk design](http://cdn.onlytalk.top/onlytalk_server.png)
