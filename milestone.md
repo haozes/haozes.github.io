@@ -15,6 +15,9 @@ header-img: "img/zhihu.jpg"
 
 <h2><a href = 'https://itunes.apple.com/cn/app/id1435069659?mt=8'>Lean</a></h2>
 
+<p>YaoYao 微信小程序版</p>
+![](http://cdn.onlytalk.top/blog/20191012160137-yaoyao_mini.jpeg)
+
 <p>自重训练 App</p>
 
 
