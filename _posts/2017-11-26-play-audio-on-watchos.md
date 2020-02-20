@@ -13,7 +13,7 @@ description: How to play audio file use Apple Watch speaker
 
 ##### WKAudioFilePlayer 必须在蓝牙耳机上播放
 WatchOS 2.0 添加了WKAudioFilePlayer，当你使用WKAudioFilePlayer 播时一段音频的时候，你就会发现提示你需要连续蓝牙耳机，此时Apple爸爸的意思是，你需要一个Airpods，就可以啦。这草种的！
-![image](https://ws1.sinaimg.cn/large/006tKfTcgy1flvs6o4jppj307k09gaag.jpg)
+![image](https://tva1.sinaimg.cn/large/006tKfTcgy1flvs6o4jppj307k09gaag.jpg)
 
 
 #### 一、使用WKInterfaceInlineMovie来播放录制音频

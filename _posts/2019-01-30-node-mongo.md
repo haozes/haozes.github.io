@@ -18,7 +18,7 @@ description: Node+Mongodb 架构常见性能问题总结
 
 ## 常见现象1：Web 服务超时，node 服务内存占用高。Mongodb CPU🔥，IOPS🔥 高
 正常情况下单个 node 服务占用内存在 100-200M 左右，此时内存可能涨到500-600M以上，Mongodb CPU 超过90%。web 服务失去响应。
-![正常情况下 node 服务内存很少](https://ws2.sinaimg.cn/large/006tNc79ly1fzoeyrg559j30go046wez.jpg)
+![正常情况下 node 服务内存很少](https://tva1.sinaimg.cn/large/006tNc79ly1fzoeyrg559j30go046wez.jpg)
 ### 问题原因：
 node 每增加一个回调/promise 异步任务，都会创建 一个`microtask`到执行队列，由于太多的`microtask`等待处理完成,新的`microtask` 在任务队列的尾端，得不到处理，web QPS 也因此迅速下降，造成 web 服务内存占用高。这种情况一般是后端 Mongodb 处理不及时拖累 node 服务，这是最常见的性能问题。  
 

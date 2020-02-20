@@ -27,7 +27,7 @@ N年后，在快离开公司的时候，我收到一封客户的邮件，他说�
  iMandarin除了有常用的问候，中文菜谱，约会，HSK考试等资源，我们还准备了有趣的网络热门词语，怕你看不懂，下面有还英文解释。一边练习发音一边学会地道的中文网络用语，你这个歪果仁终于可以和老中谈笑风生了。  
 
 
-![p1](https://ws3.sinaimg.cn/large/006tKfTcgy1fkny1cfwxxj30m80f27fs.jpg)
+![p1](https://tva1.sinaimg.cn/large/006tKfTcgy1fkny1cfwxxj30m80f27fs.jpg)
 
 
 
@@ -36,7 +36,7 @@ N年后，在快离开公司的时候，我收到一封客户的邮件，他说�
    先听系统普通话标准音发音，再逐词录音练习并精准的纠错，也可以用句子模式进行口语评测练习，系统自动生成的拼音可以让你轻松学拼音。     
 
 
-![p2](https://ws2.sinaimg.cn/large/006tKfTcgy1fkny1duisej30m80f2dmz.jpg)
+![p2](https://tva1.sinaimg.cn/large/006tKfTcgy1fkny1duisej30m80f2dmz.jpg)
 
 #### 自由输入练习     
 
@@ -44,7 +44,7 @@ N年后，在快离开公司的时候，我收到一封客户的邮件，他说�
  如果发现想练习的文本App中没有，可以输入任意文本，即时翻译成中文，再练习， 同时我们为也你准备了生词本。   
 
 
-![p3](https://ws4.sinaimg.cn/large/006tKfTcgy1fkny1e3obvj309g0e6djl.jpg)
+![p3](https://tva1.sinaimg.cn/large/006tKfTcgy1fkny1e3obvj309g0e6djl.jpg)
 
 
 ## 后记        

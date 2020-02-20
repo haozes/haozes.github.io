@@ -15,7 +15,7 @@ description: 使用蕃茄工作法软件提高工作效率
 
 ## Mac 上的 Don't Disturb 功能
 
-![mac not disturb](https://ws1.sinaimg.cn/large/006tKfTcgy1fkophdsvrzj30hm0b7gmb.jpg)
+![mac not disturb](https://tva1.sinaimg.cn/large/006tKfTcgy1fkophdsvrzj30hm0b7gmb.jpg)
 
 Mac 上的 DO NOT DITURB 功能很赞，打开这个，一切提醒消失就没有啦。
 想不开任何IM,邮件客户端工作，目前的情况看，也不大现实。 
