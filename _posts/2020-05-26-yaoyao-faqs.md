@@ -116,3 +116,24 @@ The first run of the App will require a health privacy authorization to read or 
 ![health privacy](/img/post/faq6_1_en.jpg)
 #####  Check on the Watch
 ![health privacy](/img/post/faq6_en.jpg)
+
+## 7.还有其他问题
+你可以在 App 的邮件反馈、Bug 反馈中联系我们。
+或者在以上渠道联系到我们： 
+
+E-mail:89208242@qq.com  
+QQ群：207527095  
+微信: haozes  
+Twitter: haozes
+Telegram 群组: YaoYaoNow  
+微信公众号: YaoYaoNow   
+
+## Any other questions?
+You can send us e-mail,bug report in YaoYao app setting, and we will respond to your feedback within one day. or you can contact us at:
+
+E-mail: 89208242@qq.com  
+Twitter: haozes  
+Wechat: haozes  
+Telegram Channel: YaoYaoNow   
+
+
