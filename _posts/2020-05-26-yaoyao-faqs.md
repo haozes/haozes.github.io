@@ -13,7 +13,7 @@ description: YaoYao-Frequently Asked Questions
 ##### 解决方案一：重启手机和 Watch
 
 #####  解决方案二：
-watchOS 6 后，可以从 Apple Watch上的 App Store 搜索: yaoyao，找到 App 安装(不会重复扣费)
+watchOS 6 后，可以从 Apple Watch上的 App Store 搜索: yaoyao，找到 App 安装(__不会重复扣费__)
 
 #####  解决方案三：卸载重装
 卸载重装时请切记保留健身记录，会弹两个框，第二个框要点保留！！！
@@ -25,18 +25,18 @@ Normally, the Watch App will be installed on your watch after the mobile app is 
 #####  Solution 1：Reboot
 Reboot the iPhone and Watch.
 #####  Solution 2: Install from watch App Store
-After watchOS 6, you can search: YaoYao from the AppStore on apple watch to find the app installation.（No duplicate charges）
+After watchOS 6, you can search: YaoYao from the App Store on apple watch to find the app installation.（No duplicate charges）
 #####  Solution 3: Reinstall
 Be sure to keep workout records when uninstall, two options will pop up and please click "save" in the second pop-up.  
 ![Delete Warnning](http://cdn.onlytalk.top/blog/faq-1_en.jpg)
 
 ## 2. 手机端没有同步数据记录
-YaoYao 的数据是保存在 HealthKit 健康中，手机端是通过从 Apple 服务端同步健身数据。
-正常情况下，几分钟之内，手机端或查看到相应的记录，如果长时间无法同步（此时使用watch自带的健身如跑步也无法同步）。请按以下步骤检查：
+YaoYao 的数据是保存在 HealthKit 健康中，手机端是通过从 Apple 服务端同步健身数据，手表电量太低有可能导致记录不同步。
+正常情况下，几分钟之内，手机端或查看到相应的记录，如果长时间无法同步（此时使用 watch 自带的健身如跑步也无法同步）。请按以下步骤检查：
 ![Sync Problem](http://cdn.onlytalk.top/blog/faq-2.jpg)
 #####  1. 健康->右上角头像->设备
 #####  2. 找到无法配对的手表设备删除即可。
-如果仍然无法同步，你需要重新配对你的手表
+如果仍然无法同步，你需要重新配对你的手表。
 
 
 ## 2.Workout data cannot synced to the iPhone.
@@ -46,13 +46,13 @@ Normally, within a few minutes, the corresponding records will be available on y
 1. Health->Avatar(upper right corner)->Devices,
 2. Delete the watch device that cannot be paired.
 
-If it still doesn't sync, you may need to re-pair your watch.
+If it still doesn't sync, you may need to re-pair your watch. In addition, the watch with too low a charge may also cause records to be out of sync.
 
 ## 3. 手机上版本更新了，Watch 上没有更新
 有时手机 App 端更到了 2.0.1，手表上版本只有 2.0.0(比手机端版本低)
 #####  1. 在手机 Watch App 上看下找到 YAOYAO 是否正在安装，或等待安装.
 #####  2. 从Watch上的 App Store 检查更新
- 从手表的程序坞里找到app store，点击“账户”->“更新”
+ 从手表的程序坞里找到 App Store，点击“账户”->“更新”
  ![update from watch](http://cdn.onlytalk.top/blog/faq-3_zh.jpg)
 
 
@@ -68,7 +68,7 @@ Find the app store from the watch's app dock and tap on "Account"->"Update", upd
 #####  1. 请重启手表
 #####  2. 请检查是否勾选了“双摇”模式，双摇模式下单摇跳，会减半。
 如果误差不大的情况则进行调节灵敏度：
-如果YaoYao 实际计算出的跳跃次数小于实际数，将灵敏度数据调大，反之，调小。正常误差在1%~5%。
+如果 YaoYao 实际计算出的跳跃次数小于实际数，将灵敏度数据调大，反之，调小。正常误差在 1%~5%。
 灵敏度设置：
 ![Sentivity](http://cdn.onlytalk.top/blog/faq4_zh.jpg)
 
@@ -117,7 +117,13 @@ The first run of the App will require a health privacy authorization to read or 
 #####  Check on the Watch
 ![health privacy](http://cdn.onlytalk.top/blog/faq6_en.jpg)
 
-## 7.还有其他问题
+## 7. 强制退出手表端 YaoYao，避免重启手表
+彻底退出手表上的YaoYao （首先长按手表右侧下方的长形按钮，等出现关机按钮后，再长按上面圆形按钮）
+
+## 7. Force quit YaoYao on watch to avoid rebooting  watch.
+Completely exit YaoYao on the watch (press and hold the long button on the bottom right side of the watch, wait for the "POWER OFF" to appear, then press and hold the top digital crown button)
+
+## 8.还有其他问题
 你可以在 App 的邮件反馈、Bug 反馈中联系我们。
 或者在以上渠道联系到我们： 
 
