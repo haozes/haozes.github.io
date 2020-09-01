@@ -8,7 +8,7 @@ header-img: "img/zhihu.jpg"
 
 
 
-<h2><a href = 'https://itunes.apple.com/cn/app/yaoyao-%E8%B7%B3%E7%BB%B3%E8%AE%A1%E6%95%B0%E5%99%A8-apple-watch%E7%89%88/id1179393901?mt=8'>YaoYao-跳绳</a></h2>
+<h2><a href = 'https://itunes.apple.com/cn/app/yaoyao-%E8%B7%B3%E7%BB%B3%E8%AE%A1%E6%95%B0%E5%99%A8-apple-watch%E7%89%88/id1179393901?mt=8'>YaoYao - 跳绳</a></h2>
 
 <p>
     <img src="/img/yaoyao1.jpg"  style="width:230px;display:inline">
