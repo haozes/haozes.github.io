@@ -1,13 +1,13 @@
 ---
 layout: post
-title: YaoYao FAQS
+title: YaoYao 在三星 Galaxy  Watch 也可以使用啦🎈
 date: 2020-09-01
 categories: blog
 tags: [Coding]
 description: YaoYao Galaxy Watch 版发布
 ---
 ![banner](/img/post/galaxy_1024_500.png)
-# YaoYao 在三星 Galaxy  Watch 也可以使用啦🎈
+
 
 最近一个月，我暂停了 Apple Watch 上的开发，将 YaoYao 移植到了三星 Galaxy Watch 平台 👨🏻‍💻。
 
@@ -40,9 +40,9 @@ description: YaoYao Galaxy Watch 版发布
 - 在 Galaxy Watch 上安装 YaoYao  后，「设置」-> 「扫码登录」 显示二维码 。
 - 在小程序 「设置」-> 「绑定Galaxy Watch」 扫描 Watch 上的二维码，即可完成。
 
-![a3ad7cac3a224475be8e00c4903a551a.png](/img/post/galaxy_a3ad7cac3a224475be8e00c4903a551a 1.pnga3ad7cac3a224475be8e00c4903a551a.png)
+![a3ad7cac3a224475be8e00c4903a551a.png](/img/post/galaxy_a3ad7cac3a224475be8e00c4903a551a.png)
 
-![YaoYao](/img/post/galaxy_a3ad7cac3a224475be8e00c4903a551a1.png)
+![YaoYao](/img/post/galaxy_ a3ad7cac3a224475be8e00c4903a551a1.png)
 
 ![YaoYao](/img/post/galaxy_Untitled1.png)
 
