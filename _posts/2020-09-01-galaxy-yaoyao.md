@@ -15,7 +15,7 @@ description: YaoYao Galaxy Watch 版发布
 
 如果您使用 iPhone，倒也不建议你搭配非 Apple Watch 以外的智能手表。
 
-## 在三星Galaxy Store 中搜索 「YaoYao 」安装YaoYao
+## 在三星Galaxy Store 中搜索 「YaoYao 」安装YaoYao(https://galaxy.store/yaoyao)
 
 在三星版的 YaoYao 中，一如以往，YaoYao 可以对跳绳进行智能计数、语音报数、心率监控，另外同样也有自由训练、次数、时间，HIIT多种跳绳模式。
 
