@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YaoYao-跳绳的智能化设计
+title: YaoYao-跳绳 为iOS14/watchOS7 智能化设计
 date: 2020-09-23
 categories: blog
 tags: [Coding]
