@@ -20,14 +20,12 @@ description: YaoYao-Frequently Asked Questions
 
 ##  <a name='NoappfoundonWatchafterinstallation'></a>1. No app found on Watch after installation
 Normally, the Watch App will be installed on your watch after the mobile app is installed, but the watch may not be able to be installed instantly due to low battery or unstable network. 
-#####  Solution 1：Reboot
-Reboot the iPhone and Watch.
-#####  Solution 2: Install from watch App Store
+#####  Solution 1: Install from watch App Store
 After watchOS 6, you can search: YaoYao from the App Store on apple watch to find the app installation.（No duplicate charges）
+#####  Solution 2：Reboot
+Reboot the iPhone and Watch.
 #####  Solution 3: Reinstall
 Be sure to keep workout records when uninstall, two options will pop up and please click "save" in the second pop-up.  
-![Delete Warnning](http://cdn.onlytalk.top/blog/faq-1_en.jpg)
-
 
 ##  <a name='WorkoutdatacannotsyncedtotheiPhone.'></a>2.Workout data cannot synced to the iPhone.
 YaoYao's workout data is stored in HealthKit, and your iPhone is synchronized with the Apple server.
