@@ -6,7 +6,13 @@ categories: blog
 tags: [Coding]
 description: YaoYao-Frequently Asked Questions
 ---
+<div id="google_translate_element"></div>
 
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
 
 * [1. No app found on Watch after installation](#NoappfoundonWatchafterinstallation)
 * [2.Workout data cannot synced to the iPhone.](#WorkoutdatacannotsyncedtotheiPhone.)
