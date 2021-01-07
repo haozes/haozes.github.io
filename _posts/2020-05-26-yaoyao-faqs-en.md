@@ -6,6 +6,7 @@ categories: blog
 tags: [Coding]
 description: YaoYao-Frequently Asked Questions
 ---
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <div id="google_translate_element"></div>
 
 <script type="text/javascript">
