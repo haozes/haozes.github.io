@@ -22,7 +22,9 @@ function googleTranslateElementInit() {
 * [5. Calorie data is inaccurate?](#Caloriedataisinaccurate)
 * [6.App Health Privacy Authorization (one of the reasons why workout data is not recorded on the phone)](#AppHealthPrivacyAuthorizationoneofthereasonswhyworkoutdataisnotrecordedonthephone)
 * [7. Force quit YaoYao on watch to avoid rebooting  watch.](#ForcequitYaoYaoonwatchtoavoidrebootingwatch.)
-* [Any other questions?](#Anyotherquestions)
+
+* [8. Which platforms YaoYao currently supports ](#platform)
+* [9. Any other questions?](#Anyotherquestions)
 
 
 ##  <a name='NoappfoundonWatchafterinstallation'></a>1. No app found on Watch after installation
@@ -82,8 +84,10 @@ The first run of the App will require a health privacy authorization to read or 
 ##  <a name='ForcequitYaoYaoonwatchtoavoidrebootingwatch.'></a>7. Force quit YaoYao on watch to avoid rebooting  watch.
 Completely exit YaoYao on the watch (press and hold the long button on the bottom right side of the watch, wait for the "POWER OFF" to appear, then press and hold the top digital crown button)
 
+## <a name='platform'></a>8. Which platforms YaoYao currently supports 
+YaoYao now works on Apple Watch(all series), Samsung Galaxy Watch(1,2,3),Planing to support Huawei HarmonyOS watch
 
-##  <a name='Anyotherquestions'></a>Any other questions?
+##  <a name='Anyotherquestions'></a>9. Any other questions?
 You can send us e-mail,bug report in YaoYao app setting, and we will respond to your feedback within one day. or you can contact us at:
 
 E-mail: 89208242@qq.com  
