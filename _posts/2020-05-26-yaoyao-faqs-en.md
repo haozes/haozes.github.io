@@ -34,7 +34,7 @@ After watchOS 6, you can search: YaoYao from the App Store on apple watch to fin
 #####  Solution 2：Reboot
 Reboot the iPhone and Watch.
 #####  Solution 3: Reinstall
-Be sure to keep workout records when uninstall, two options will pop up and please click "save" in the second pop-up.  
+
 
 ##  <a name='WorkoutdatacannotsyncedtotheiPhone.'></a>2.Workout data cannot synced to the iPhone.
 YaoYao's workout data is stored in HealthKit, and your iPhone is synchronized with the Apple server.
