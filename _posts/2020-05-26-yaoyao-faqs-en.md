@@ -57,8 +57,8 @@ If the error exceeds 50%.
 #####  1. Please reboot the watch.
 #####  2. Please check if the "double under" mode is checked, in double under mode, single shake will be reduced by half.
 
-The normal error is in the 1% to 5% range, adjust the sensitivity if the error is smaller than the actual times.
-Turn up the sensitivity data.  Otherwise, turn it down. 
+The normal error is in the 1% to 5% range, adjust the sensitivity  on watch app setting if the error is smaller than the actual times.
+Turn up the sensitivity.  Otherwise, turn it down. 
 
 Sensitivity settings.
 ![Sentivity](http://cdn.onlytalk.top/blog/faq4_en.jpg)
