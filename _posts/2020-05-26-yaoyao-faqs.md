@@ -12,9 +12,10 @@ description: YaoYao-Frequently Asked Questions
 * [4. 卡路里数据不准？（同样跳1000次，卡路里数不一样）](#-1)
 * [5. App 健康隐私授权(手机上没有跳绳记录原因之一)](#App)
 * [6. 手机上版本更新了，Watch 上没有更新](#Watch)
-* [7. 强制退出手表端 YaoYao，避免重启手表](#YaoYao)
-* [8. YaoYao 目前支持哪些平台](#platform)
-* [9. 还有其他问题](#-1)
+* [7. 边跳绳边用耳机听歌，音乐容易被打断](#LiveCount)
+* [8. 强制退出手表端 YaoYao，避免重启手表](#YaoYao)
+* [9. YaoYao 目前支持哪些平台](#platform)
+* [10. 还有其他问题](#-1)
 
 ##  <a name='WatchApp'></a>1. 安装后 Watch 上找不到 App
 正常情况下手机 App 安装后，会同时将 Watch App 安装到手表，但电量不足，网络不稳定等情况下，手表上未定可以即时安装。 
@@ -71,14 +72,23 @@ App 首次运行会要求对健康隐私授权，以用来读取或写入各类�
  从手表的程序坞里找到 App Store，点击“账户”->“更新”
  ![update from watch](http://cdn.onlytalk.top/blog/faq-3_zh.jpg)
 
+##  <a name='LiveCount'></a>7. 边跳绳边用耳机听歌，音乐容易被打断
+- 跳绳的时候可把 iPhone 放在桌上或支架  
+- 打开 iPhone 端的 YaoYao App  
+- 在 YaoYao Watch App 上开始  
+这样 iPhone 上小鹿将会和你同步跳跃 ，不仅实时显示跳跃数，还能大声播报。或者如果你喜欢边跳边听音乐，不论是耳机连接Watch，或者 iPhone，听到播报声音将更加清晰。 
 
-##  <a name='YaoYao'></a>7. 强制退出手表端 YaoYao，避免重启手表
+Live Count功能详细参考：
+![livecount](https://cdn.sspai.com/2020/05/12/edf762cb42cef688570528e37c4a175e.gif)
+https://zhuanlan.zhihu.com/p/139867684
+
+##  <a name='YaoYao'></a>8. 强制退出手表端 YaoYao，避免重启手表
 彻底退出手表上的YaoYao （首先长按手表右侧下方的长形按钮，等出现关机按钮后，再长按上面圆形按钮）
 
-##  <a name='platform'></a>8.YaoYao 目前支持哪些平台？
+##  <a name='platform'></a>9.YaoYao 目前支持哪些平台？
 目前支持 Apple Watch（所有型号）, 三星 Galaxy Watch（1，2，3代）手表，另支持微信小程序。 
 
-##  <a name='-1'></a>9.还有其他问题
+##  <a name='-1'></a>10.还有其他问题
 你可以在 App 的邮件反馈、Bug 反馈中联系我们。
 或者在以上渠道联系到我们： 
 

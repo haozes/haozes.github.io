@@ -83,13 +83,23 @@ The first run of the App will require a health privacy authorization to read or 
 #####  Check on the Watch
 ![health privacy](http://cdn.onlytalk.top/blog/faq6_en.jpg)
 
-##  <a name='ForcequitYaoYaoonwatchtoavoidrebootingwatch.'></a>7. Force quit YaoYao on watch to avoid rebooting  watch.
+##  <a name='LiveCount'></a>7. Music is easy to be interrupted while jumping  and listening to songs with headphones, 
+- Place your iPhone on a table or stand while jumping.  
+- Open YaoYao App on iPhone.
+- Start workout with YaoYao Watch App.  
+Use 「live count」 feature, the deer on iPhone will jump with you, not only displaying the number of jumps in real time, but also announcing loudly. Or if you like to listen to music while jumping, whether it is headphones connected to Watch or iPhone, you will hear the announcement more clearly.
+More details about Live Count feature:
+Translated with www.DeepL.com/Translator (free version)
+![livecount](https://cdn.sspai.com/2020/05/12/edf762cb42cef688570528e37c4a175e.gif)
+https://zhuanlan.zhihu.com/p/139867684
+
+##  <a name='ForcequitYaoYaoonwatchtoavoidrebootingwatch.'></a>8. Force quit YaoYao on watch to avoid rebooting  watch.
 Completely exit YaoYao on the watch (press and hold the long button on the bottom right side of the watch, wait for the "POWER OFF" to appear, then press and hold the top digital crown button)
 
-## <a name='platform'></a>8. Which platforms YaoYao currently supports 
+## <a name='platform'></a>9. Which platforms YaoYao currently supports 
 YaoYao now works on Apple Watch(all series), Samsung Galaxy Watch(1,2,3),Planing to support Huawei HarmonyOS watch
 
-##  <a name='Anyotherquestions'></a>9. Any other questions?
+##  <a name='Anyotherquestions'></a>10. Any other questions?
 You can send us e-mail,bug report in YaoYao app setting, and we will respond to your feedback within one day. or you can contact us at:
 
 E-mail: 89208242@qq.com  
