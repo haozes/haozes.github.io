@@ -63,9 +63,11 @@ Turn up the sensitivity.  Otherwise, turn it down.
 Sensitivity settings.
 ![Sentivity](http://cdn.onlytalk.top/blog/faq4_en.jpg)
 
-##  <a name='Caloriedataisinaccurate'></a>5. Calorie data is inaccurate? 
+##  <a name='Caloriedataisinaccurate'></a>5. Heart rate/Calorie data is inaccurate? 
 Firstly, YaoYao's calorie data is calculated by watchOS, based on heart rate, exercise sensor strength, time, type of exercise, age, etc., and is not a completely linear result, normally around 600 total calories in an hour.
 Secondly, dynamic calories refer to calories burned during exercise and do not include base energy burned.
+
+You should wear watch more tighter to make the electrical and optical heart sensors work well. Otherwise, it will lead to inaccurate heart rate and calorie data, such as: the watch app shows the heart rate gray, workout results detailed data has flat heart rate curve.
 
 __Total Calories  burned = Active Calories Burned + Base Energy Burned__
 
