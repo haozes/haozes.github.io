@@ -102,9 +102,9 @@ YaoYao now works on Apple Watch(all series), Samsung Galaxy Watch(1,2,3),Planing
 ##  <a name='Anyotherquestions'></a>10. Any other questions?
 You can send us e-mail,bug report in YaoYao app setting, and we will respond to your feedback within one day. or you can contact us at:
 
-E-mail: 89208242@qq.com  
-Twitter: haozes  
+E-mail: [haozes@gmail.com](mailto:haozes@gmail.com)  
+Twitter: [haozes](https://twitter.com/haozes)  
 Wechat: haozes  
-Telegram Channel: YaoYaoNow   
+Telegram Channel: [YaoYaoNow](https://t.me/yaoyaonow)   
 
 

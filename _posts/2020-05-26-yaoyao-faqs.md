@@ -92,11 +92,11 @@ https://zhuanlan.zhihu.com/p/139867684
 你可以在 App 的邮件反馈、Bug 反馈中联系我们。
 或者在以上渠道联系到我们： 
 
-E-mail:89208242@qq.com  
+E-mail: [haozes@gmail.com](mailto:haozes@gmail.com)  
+Twitter: [haozes](https://twitter.com/haozes)  
+Wechat: haozes  
+Telegram Channel: [YaoYaoNow](https://t.me/yaoyaonow)   
 QQ群：207527095  
 微信: haozes  
-Twitter: haozes
-Telegram 群组: YaoYaoNow  
 微信公众号: YaoYaoNow   
-
 
