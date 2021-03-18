@@ -18,16 +18,17 @@ function googleTranslateElementInit() {
 * [1. No app found on Watch after installation](#NoappfoundonWatchafterinstallation)
 * [2.Workout data cannot synced to the iPhone.](#WorkoutdatacannotsyncedtotheiPhone.)
 * [3. App  version updated on iOS, but not on Watch](#AppversionupdatedoniOSbutnotonWatch)
-* [4.The number of jump ropes counted is higher or lower than the actual number](#Thenumberofjumpropescountedishigherorlowerthantheactualnumber)
+* [4.The number of jump ropes counted is higher or lower than the actual number](#Thenumberofjumpropes)
 * [5. Calorie data is inaccurate?](#Caloriedataisinaccurate)
-* [6.App Health Privacy Authorization (one of the reasons why workout data is not recorded on the phone)](#AppHealthPrivacyAuthorizationoneofthereasonswhyworkoutdataisnotrecordedonthephone)
-* [7. Force quit YaoYao on watch to avoid rebooting  watch.](#ForcequitYaoYaoonwatchtoavoidrebootingwatch.)
+* [6.App Health Privacy Authorization (one of the reasons why workout data is not recorded on the phone)](#AppHealthPrivacyAuthorizationon)
+* [7. Force quit YaoYao on watch to avoid rebooting  watch.](#ForcequitYaoYao)
 
 * [8. Which platforms YaoYao currently supports ](#platform)
 * [9. Any other questions?](#Anyotherquestions)
 
 
 ##  <a name='NoappfoundonWatchafterinstallation'></a>1. No app found on Watch after installation
+
 Normally, the Watch App will be installed on your watch after the mobile app is installed, but the watch may not be able to be installed instantly due to low battery or unstable network. 
 #####  Solution 1: Install from watch App Store
 After watchOS 6, you can search: YaoYao from the App Store on apple watch to find the app installation.（No duplicate charges）
@@ -37,7 +38,8 @@ Reboot the iPhone and Watch.
 
 
 ##  <a name='WorkoutdatacannotsyncedtotheiPhone.'></a>2.Workout data cannot synced to the iPhone.
-YaoYao's workout data is stored in HealthKit, and your iPhone is synchronized with the Apple server.
+1. Check App Health Privacy Authorization (FAQ 6)  
+2. YaoYao's workout data is stored in HealthKit, and your iPhone is synchronized with the Apple server.
 Normally, within a few minutes, the corresponding records will be available on your iPhone. In case they are not synced for a period of time, please follow these steps to check.
 ![Sync Problem](http://cdn.onlytalk.top/blog/faq-2.jpg)
 1. Health->Avatar(upper right corner)->Devices,
@@ -52,9 +54,9 @@ Sometimes, the YaoYao iOS app version is updated to 2.0.1, but the watch version
 Find the app store from the watch's app dock and tap on "Account"->"Update", update it manually.
  ![update from watch](http://cdn.onlytalk.top/blog/faq-3_en.jpg)
 
-##  <a name='Thenumberofjumpropescountedishigherorlowerthantheactualnumber'></a>4.The number of jump ropes counted is higher or lower than the actual number
+##  <a name='Thenumberofjumpropes'></a>4.The number of jump ropes counted is higher or lower than the actual number
 If the error exceeds 50%.
-#####  1. Please reboot the watch.
+#####  1. Please reboot the watch/ Reinstall YaoYao App.
 #####  2. Please check if the "double under" mode is checked, in double under mode, single shake will be reduced by half.
 
 The normal error is in the 1% to 5% range, adjust the sensitivity  on watch app setting if the error is smaller than the actual times.
@@ -75,12 +77,12 @@ YaoYao shows active calories by default, and total calories are shown in the wor
 Not wearing the strap tightly can seriously affect the accuracy of the heart rate and calorie data, and it is recommended that you wear it tighter, since heart rate has the most impact on calories!
 
 
-##  <a name='AppHealthPrivacyAuthorizationoneofthereasonswhyworkoutdataisnotrecordedonthephone'></a>6.App Health Privacy Authorization (one of the reasons why workout data is not recorded on the phone)
-#####  on the watch
-The first run of the App will require a health privacy authorization to read or write various types of motion data, which can be opened manually if ignored.
+##  <a name='AppHealthPrivacyAuthorizationon'></a>6.App Health Privacy Authorization (one of the reasons why workout data is not recorded/Heart rate not show on the phone)
+The first run of the App will request  health privacy authorization to read or write various types of workout data to Apple Health, which can be opened manually if ignored.
 #####  Check on the iPhone
-![health privacy](http://cdn.onlytalk.top/blog/faq6_1_en.jpg)
+Open 「Setting」->「Privacy」->「Health」-> Find「YaoYao」->「Turn all Categories On」
 #####  Check on the Watch
+Open 「Setting」->「Health」->App-> Find「YaoYao」->「Turn all Categories On」
 ![health privacy](http://cdn.onlytalk.top/blog/faq6_en.jpg)
 
 ##  <a name='LiveCount'></a>7. Music is easy to be interrupted while jumping  and listening to songs with headphones, 
@@ -93,8 +95,8 @@ Translated with www.DeepL.com/Translator (free version)
 ![livecount](https://cdn.sspai.com/2020/05/12/edf762cb42cef688570528e37c4a175e.gif)
 https://zhuanlan.zhihu.com/p/139867684
 
-##  <a name='ForcequitYaoYaoonwatchtoavoidrebootingwatch.'></a>8. Force quit YaoYao on watch to avoid rebooting  watch.
-Completely exit YaoYao on the watch (press and hold the long button on the bottom right side of the watch, wait for the "POWER OFF" to appear, then press and hold the top digital crown button)
+##  <a name='ForcequitYaoYao'></a>8. Force quit YaoYao on watch to avoid rebooting  watch.
+Completely exit YaoYao on the watch when YaoYao open (press and hold the long button on the bottom right side of the watch, wait for the "POWER OFF" to appear, then press and hold the top digital crown button)
 
 ## <a name='platform'></a>9. Which platforms YaoYao currently supports 
 YaoYao now works on Apple Watch(all series), Samsung Galaxy Watch(1,2,3),Planing to support Huawei HarmonyOS watch

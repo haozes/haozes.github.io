@@ -26,11 +26,11 @@ watchOS 6 后，可以从 Apple Watch上的 App Store 搜索: yaoyao，找到 Ap
 ##### 解决方案二：重启手机和 Watch
 
 #####  解决方案三：卸载重装
-卸载重装时请切记保留健身记录，会弹两个框，第二个框要点保留！！！
 
 
 ##  <a name='2'></a>2. 手机端没有同步数据记录
-YaoYao 的数据是保存在 HealthKit 健康中，手机端是通过从 Apple 服务端同步健身数据，手表电量太低有可能导致记录不同步。
+1. 检查健康隐私数据读取授权，见常见问题 5（ App 健康隐私授权）
+2. YaoYao 的数据是保存在 HealthKit 健康中，手机端是通过从 Apple 服务端同步健身数据，手表电量太低有可能导致记录不同步。
 正常情况下，几分钟之内，手机端或查看到相应的记录，如果长时间无法同步（此时使用 watch 自带的健身如跑步也无法同步）。请按以下步骤检查：
 ![Sync Problem](http://cdn.onlytalk.top/blog/faq-2.jpg)
 #####  1. 健康->右上角头像->设备
@@ -57,17 +57,19 @@ __要让触感引擎和电极式心率传感器及光学心率传感器等功能
 YaoYao 默认显示的是动态卡路里，详情里有总卡路里显示。
 
 ##  <a name='App'></a>5. App 健康隐私授权(手机上没有跳绳记录原因之一)
+App 首次运行会要求对健康隐私数据授权，以用来读取或写入各类运动数据，如果被忽略可以手动打开
+
 #####  手机上
- ![health privacy](http://cdn.onlytalk.top/blog/faq6_1_cn.jpg)
+1. 打开 「设置」->「隐私」->「健康」-> 找到「YaoYao」->「打开所有类别」
 
 #####  手表上
-App 首次运行会要求对健康隐私授权，以用来读取或写入各类运动数据，如果被忽略可以手动打开
+1. 打开 「设置」->「健康」->「App」-> 找到「YaoYao」->「打开所有类别」
 ![health privacy](http://cdn.onlytalk.top/blog/faq6_cn.jpg)
 
 
 ##  <a name='Watch'></a>6. 手机上版本更新了，Watch 上没有更新
 有时手机 App 端更到了 2.0.1，手表上版本只有 2.0.0(比手机端版本低)
-#####  1. 在手机 Watch App 上看下找到 YAOYAO 是否正在安装，或等待安装.
+#####  1. 在手机 Watch App 上看下找到 YaoYao 是否正在安装，或等待安装.
 #####  2. 从Watch上的 App Store 检查更新
  从手表的程序坞里找到 App Store，点击“账户”->“更新”
  ![update from watch](http://cdn.onlytalk.top/blog/faq-3_zh.jpg)
@@ -83,7 +85,7 @@ Live Count功能详细参考：
 https://zhuanlan.zhihu.com/p/139867684
 
 ##  <a name='YaoYao'></a>8. 强制退出手表端 YaoYao，避免重启手表
-彻底退出手表上的YaoYao （首先长按手表右侧下方的长形按钮，等出现关机按钮后，再长按上面圆形按钮）
+打开YaoYao App, 首先长按手表右侧下方的长形按钮，等出现关机按钮后，再长按上面圆形按钮,即彻底退出手表上的YaoYao 进程
 
 ##  <a name='platform'></a>9.YaoYao 目前支持哪些平台？
 目前支持 Apple Watch（所有型号）, 三星 Galaxy Watch（1，2，3代）手表，另支持微信小程序。 
