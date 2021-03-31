@@ -30,11 +30,11 @@ function googleTranslateElementInit() {
 ##  <a name='NoappfoundonWatchafterinstallation'></a>1. No app found on Watch after installation
 
 Normally, the Watch App will be installed on your watch after the mobile app is installed, but the watch may not be able to be installed instantly due to low battery or unstable network. 
-#####  Solution 1: Install from watch App Store
+#####  Solution 1: Close WIFI,switch to  4G and reinstall app.
+#####  Solution 2: Install from watch App Store
 After watchOS 6, you can search: YaoYao from the App Store on apple watch to find the app installation.（No duplicate charges）
-#####  Solution 2：Reboot
-Reboot the iPhone and Watch.
-#####  Solution 3: Reinstall
+#####  Solution 2：Reboot / Reinstall
+Reboot the iPhone and Watch, or reinstall app
 
 
 ##  <a name='WorkoutdatacannotsyncedtotheiPhone.'></a>2.Workout data cannot synced to the iPhone.

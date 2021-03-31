@@ -20,12 +20,11 @@ description: YaoYao-Frequently Asked Questions
 ##  <a name='WatchApp'></a>1. 安装后 Watch 上找不到 App
 正常情况下手机 App 安装后，会同时将 Watch App 安装到手表，但电量不足，网络不稳定等情况下，手表上未定可以即时安装。 
 
-#####  解决方案一：
-watchOS 6 后，可以从 Apple Watch上的 App Store 搜索: yaoyao，找到 App 安装(__不会重复扣费__)
+#####  解决方案一：关闭手机 WIFI，使用 4G 网络下载
+#####  解决方案二：
+从 Apple Watch上的 App Store 搜索: yaoyao，找到 App 安装(__不会重复扣费__)
 
-##### 解决方案二：重启手机和 Watch
-
-#####  解决方案三：卸载重装
+##### 解决方案三：重启手机和 Watch，或卸载重装
 
 
 ##  <a name='2'></a>2. 手机端没有同步数据记录
