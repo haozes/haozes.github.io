@@ -91,7 +91,7 @@ Open 「Setting」->「Health」->App-> Find「YaoYao」->「Turn all Categories
 - Start workout with YaoYao Watch App.  
 Use 「live count」 feature, the deer on iPhone will jump with you, not only displaying the number of jumps in real time, but also announcing loudly. Or if you like to listen to music while jumping, whether it is headphones connected to Watch or iPhone, you will hear the announcement more clearly.
 More details about Live Count feature:
-Translated with www.DeepL.com/Translator (free version)
+
 ![livecount](https://cdn.sspai.com/2020/05/12/edf762cb42cef688570528e37c4a175e.gif)
 https://zhuanlan.zhihu.com/p/139867684
 
