@@ -16,7 +16,7 @@ YaoYao 跳绳作为专为 Apple Watch 设计开发的跳绳应用，相比昂贵
 - LiveCount:iPhone 屏作为镜像屏幕显示，无需要抬腕即可了解实时运动信息。  
 
  <video controls crossorigin playsinline poster="https://cdn.onlytalk.top/screen05.jpg"
-          style="--plyr-color-main: #F8AD34;"  width="500" height="280">
+          style="--plyr-color-main: #F8AD34;"  width="720" height="425">
           <source src="https://cdn.onlytalk.top/yaoyao_intro.mp4" type="video/mp4" size="1080">
 </video>
 
