@@ -56,8 +56,10 @@ Find the app store from the watch's app dock and tap on "Account"->"Update", upd
 
 ##  <a name='Thenumberofjumpropes'></a>4.The number of jump ropes counted is higher or lower than the actual number
 If the error exceeds 50%.
-#####  1. Please reboot the watch/ Reinstall YaoYao App.
-#####  2. Please check if the "double under" mode is checked, in double under mode, single shake will be reduced by half.
+
+#####  1. Please check if the "double under" mode is checked, in double under mode, single shake will be reduced by half.
+#####  2. Don't using YaoYao both with other workout app together.
+#####  3. Please reboot the watch/ Reinstall YaoYao App.
 
 The normal error is in the 1% to 5% range, adjust the sensitivity  on watch app setting if the error is smaller than the actual times.
 Turn up the sensitivity.  Otherwise, turn it down. (Just for reference, if your speed is greater than 180/min , it is recommended to set to 5, if the speed is less than 90/min, you can set to 2.)
