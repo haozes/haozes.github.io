@@ -6,13 +6,14 @@ categories: blog
 tags: [Coding]
 description: YaoYao AirPods Mode
 ---
-![Banner](/img/post/0218/banner_air.jpg)
+![Banner](/img/post/0218/banner_pod.jpg)
 
 YaoYao 是 一款 [Apple Watch/Galaxy Watch 跳绳计数应用](https://yy.onlytalk.top/)，跳上了就停不下来，是它让少男少女提前拄上了拐，是他让中年大叔大婶成为广场最靓的仔。
 
 如果你是 Watch 用户，因为花了 18块买了 YaoYao App，省了一根 200元的智能跳绳。那么，现在 AirPods 用户也能省下这 200了。 
 
 过年的时候，中年程序猿失业摆摊标杆，被光没选中之人，跳绳 App 终结者汪二，在村头刷手机，发现 Apple 给 AirPods 提供了一个接口，可以获取类似手表上的运动传感器数据，AirPods 正是用这个传感器实现空间音频效果的。
+![airpods+rope](/img/post/0218/banner_air.jpg)
 
 汪二一拍大腿：这个传感器也可以用来实现跳绳计数嘛！赶紧用热水带给冻得充不上电的 Macbook 焐上，哆嗦着开始开发这个功能。
 
