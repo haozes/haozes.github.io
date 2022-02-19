@@ -18,14 +18,14 @@ YaoYao 是 一款 [Apple Watch/Galaxy Watch 跳绳计数应用](https://yy.onlyt
 
 
 ### 使用体验部分甚至超过了 Apple Watch 
-![Connection](/img/post/0218/airconn.jpg)
+![连接 AirPods](/img/post/0218/airconn.jpg)
 
 
 点击首页左上角耳机图标，进入 「AirPods 模式」， AirPods 模式和手表 App 一样加入了各种运动模式：计数、计时、以及大家喜欢的 HIIT间隙跳模式。  
 - 如果耳机是支持空间音频的耳机，会显示已连接。  
 - 如果无法连接，YaoYao 替你验证了，该耳机来自华强北🐶。
 
-![Jump](/img/post/0218/airpodjump.gif)
+![AirPods 模式运动中](/img/post/0218/airpodjump.gif)
 
 🎵  首先 YaoYao 语音报数方面等同于 Watch App 上的交互体验，但戴上耳机听歌跳绳的体验，甚至超过 Apple Watch。Apple Watch 上听音乐基本没好用的，大多情况我还是用手机上的音乐App。  
 
@@ -34,7 +34,7 @@ Apple Watch 用两三年后，到了晚上总是电量捉急，而很多人都�
 
 ### 不足的地方
 - AirPods 没有心率传感器，无法提供心率信息。下图前两张为 Apple Watch 版生成记录，后一张为使用 AirPods 生成的数据图。
-![heart rate](/img/post/0218/hr_compare.jpg)
+![后者无心率图表](/img/post/0218/hr_compare.jpg)
 - 需要一直打开手机 App 亮着屏   
 AirPods 仅提供了传感器数据，实际数据计算部分还是在手机 App 上完成的，也就是你无法像 Apple Watch  一样，只戴一个 Watch 下楼跳绳。
 
