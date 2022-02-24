@@ -36,7 +36,7 @@ Apple Watch 用两三年后，到了晚上总是电量捉急，而很多人都�
 ### 不足的地方
 - AirPods 没有心率传感器，无法提供心率信息。下图前两张为 Apple Watch 版生成记录，后一张为使用 AirPods 生成的数据图。
 ![后者无心率图表](/img/post/0218/hr_compare.jpg)
-- 需要一直打开手机 App 亮着屏   
+- 需要一直带着手机   
 AirPods 仅提供了传感器数据，实际数据计算部分还是在手机 App 上完成的，也就是你无法像 Apple Watch  一样，只戴一个 Watch 下楼跳绳。
 
 
