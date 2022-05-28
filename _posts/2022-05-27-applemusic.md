@@ -30,8 +30,8 @@ YaoYao 新版本加的这个听歌功能，在 App 里有音乐🎵 图标的地
     1. 使用 watch 上独立或离线音频 App
     用手表 「设置」「蓝牙」 连接 🎧 后，使用 watch上的 Apple音乐、播客、网易云音乐（离线），音频和报数将会都从🎧播出。
 
-    2.使用 iPhone 端 Live Count 功能
-
+    2.使用 iPhone 端 同屏（LiveCount） 功能：跳绳的同时打开YaoYao 手机端，可以同时听到报数声音和看到心率区间的变化
+![livecount](/img/post/0527/livecount.jpg)
 现在使用了YaoYao 手机端的音乐功能，哪怕是在手机锁屏情况下，也能在🎧上听到手机上音乐和报数啦。
 
 
