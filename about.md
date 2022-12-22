@@ -14,8 +14,9 @@ header-img: "img/green.jpg"
 
 ### 作品
 - [YaoYao-跳绳 Apple Watch](https://apps.apple.com/cn/app/yaoyao-jump-rope/id1179393901)
-- [YaoYao- 跳绳 三星手表](https://galaxy.store/yaoyao)
+- [YaoYao- 跳绳 WearOS](https://play.google.com/store/apps/details?id=com.hltek.yaoyao)
 - [Lean-自重训练](https://itunes.apple.com/cn/app/id1435069659?mt=8)
+- [顶瓜瓜-坐姿保护](https://apps.apple.com/app/id1629577265)
 
 ### 为什么开发 YaoYao
 我希望大家可以用身体去抵抗这个时代的丧
