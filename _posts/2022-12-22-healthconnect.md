@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 将YaoYao跳绳记录同步到三星健康（android）
+title: 将 YaoYao 跳绳记录同步到三星健康（Android）
 date: 2022-12-22
 categories: blog
 tags: [Coding]

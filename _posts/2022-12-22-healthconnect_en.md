@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 将YaoYao跳绳记录同步到三星健康（android）
+title: Sync YaoYao data to Samsung Health with Health Connect（Android）
 date: 2022-12-22
 categories: blog
 tags: [Coding]
-description: sync YaoYao workout record to Samsung Health
+description: YaoYao has integerated with Health Connect
 ---
 ![Banner](/img/post/221222//banner.jpg)
 Samsung Health has an incentive mechanism similar to the Apple Watch Activity Rings which offers suggestions and encouragement to help people close it.
