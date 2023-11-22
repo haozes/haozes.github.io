@@ -17,7 +17,9 @@ YaoYao-跳绳 App 有一个简单的好友系统，它设计的主要目标是�
 
 新的语音消息功能，也正是为了这样的关系设计。
 
-https://www.bilibili.com/video/BV1tC4y117wh/?vd_source=2f66e6710d0f4e540d4d3e90ae1fc174
+
+
+[![DemoVideo](https://i0.hdslb.com/bfs/archive/6cf5b4539cdd96f9c4eb44a1d718ce209c7f3b60.jpg)](https://www.bilibili.com/video/BV1tC4y117wh/?vd_source=2f66e6710d0f4e540d4d3e90ae1fc174 "CameraMaster")
 
 ## 语音消息
 

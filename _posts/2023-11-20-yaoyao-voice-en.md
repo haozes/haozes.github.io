@@ -17,7 +17,8 @@ So you can't simply add strangers as your friends in the leaderboard.
 
 The new voice messaging feature is also designed for just such relationships.
 
-https://youtu.be/F8PQQmSQDTg
+[![DemoVideo](https://i.ytimg.com/vi/F8PQQmSQDTg/hqdefault.jpg)](https://youtu.be/F8PQQmSQDTg "CameraMaster")
+
 
 ## Voice Message
 
