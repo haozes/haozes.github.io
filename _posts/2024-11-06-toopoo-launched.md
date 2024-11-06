@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 周一到周五跳绳，周末呢？
-date: 2024-07-46
+date: 2024-11-06
 categories: blog
 tags: [Coding]
 description: Toopoo Release
