@@ -4,7 +4,7 @@
 
 ## About me
 
-haozes.me
+blog.yaoyaojumprope.com
 
 
 # I know one thing; that I know nothing

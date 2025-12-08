@@ -7,7 +7,7 @@ tags: [Work]
 description: How to play audio file use Apple Watch speaker
 ---
 
-最近在大叔送孩子上培训班的时间给[YaoYao 跳绳App](http://haozes.me/blog/2017/07/01/yaoyao/)增加了一个功能：运动开始暂停语音提示，并且每跳绳100次，实时语音播报次数。这么炫酷的功能是如何做的呢？  
+最近在大叔送孩子上培训班的时间给[YaoYao 跳绳App](http://blog.yaoyaojumprope.com/blog/2017/07/01/yaoyao/)增加了一个功能：运动开始暂停语音提示，并且每跳绳100次，实时语音播报次数。这么炫酷的功能是如何做的呢？  
 
 在Watch里使用扬声器播放声音，目前大叔测试成功有两种。
 

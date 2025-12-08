@@ -7,11 +7,11 @@ tags: [Coding]
 description: HeadsUp app is support MacOS now
 ---
 
-去年我发布了一款坐姿提醒的App  -- [顶瓜瓜](https://haozes.me/blog/2022/07/22/headsup/)，它使用iPhone/iPad 的 TrueDepth 深感相机来检测用户头部位置，来提醒坐姿。
+去年我发布了一款坐姿提醒的App  -- [顶瓜瓜](https://blog.yaoyaojumprope.com/blog/2022/07/22/headsup/)，它使用iPhone/iPad 的 TrueDepth 深感相机来检测用户头部位置，来提醒坐姿。
 
 功能新颖有趣，获得了 《App Store 九月最佳》等多个 App Store 推荐。
 
-![demo](https://haozes.me/img/post/0720/headsup.gif)
+![demo](https://blog.yaoyaojumprope.com/img/post/0720/headsup.gif)
 
 后来又增加了使用 AirPods 运动传感器来检测的方式。这样可以不用一直亮着屏幕来使用。
 
